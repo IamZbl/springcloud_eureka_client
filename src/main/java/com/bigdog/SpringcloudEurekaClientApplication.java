@@ -1,4 +1,4 @@
-package com.bigdog.springcloud_eureka_client;
+package com.bigdog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
